@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.block {
+  display: inline-block;
+  width: 344px;
+  height: 344px;
+  padding: 30px;
+  margin: 10px;
+  text-align: center;
+  border: 5px dashed black;
+}
+
+.block>p {
+  margin-bottom: 15px;
+}
+
+#darkblue {
+  background: darkblue;
+}
+
+#red {
+  background: red;
+}
+
+#aqua {
+  background: aqua;
+}
+
+#darkgray {
+  background: darkgrey;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#maroon {
+  background: maroon;
+}
+
+#darkpurple {
+  background: darkmagenta;
+}
+
+#orange {
+  background: orange;
+}
